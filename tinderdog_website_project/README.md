@@ -1,4 +1,4 @@
-The tindog website is a project that created while I was taking online web developement coding classes to increase my knowledge in HTML, CSS , javascript and other web developement languauges. The images below shows  previews of the online page.
+The tindog website is a project that created while I was taking online web developement coding classes to increase my knowledge in HTML, CSS , javascript and other web developement languauges. The images below show previews of the online page.
 ![image](https://user-images.githubusercontent.com/70728294/225640469-83adae26-ab2b-4bec-8e53-42061c40e9c9.png)
 
 
